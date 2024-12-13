@@ -28,6 +28,6 @@ The database consists of the following tables:
 - **ERD (Entity Relationship Diagram)**: Used to design the database structure
 
 ## GYM ER Diagram
-
+![GYM ER Diagram](https://github.com/user-attachments/assets/f3501766-1e2e-42f0-bc6d-517fba3f2f4e)
 
 
