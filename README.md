@@ -2,7 +2,7 @@
 # SQL Gym Database Project
 
 ## Overview
-This project is designed to manage the operations of a gym using a relational database system. The **SQL Gym Database** provides functionalities to manage gym Members, Employees, Upgrads, Payments, Renewals, and schedules. The database schema is structured to facilitate easy access to critical information, improve operational efficiency, and generate reports.
+This project is designed to manage the operations of a gym using a relational database system. The **SQL Gym Database** provides functionalities to manage gym Members, Employees, Upgrades, Payments, Renewals, and schedules. The database schema is structured to facilitate easy access to critical information, improve operational efficiency, and generate reports.
 
 ## Features
 - **Member Management**: Track member details, memberships, and attendance.
